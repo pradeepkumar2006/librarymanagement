@@ -71,5 +71,5 @@ LibraryManagement/
 
 ---
 
-## 👤 Author
+## Author
 - **Pradeep Kumar** ([@pradeepkumar2006](https://github.com/pradeepkumar2006))
