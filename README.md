@@ -1,30 +1,30 @@
-# 📚 Library Management System
+# Library Management System
 
 A robust console-based Library Management System written in **Java** with an **SQLite** database backend.
 
 ---
 
-## 🚀 Features
+## Features
 
-- **📖 Book Management**:
+- **Book Management**:
   - Add new books with ISBN, title, author, category, published year, and copy counts.
   - View all books and search by title, author, or category.
   - Update book details and delete books.
-- **👥 Member Management**:
+- **Member Management**:
   - Register new members with validation (name, unique email, phone).
   - Search, update, and manage member statuses (ACTIVE/INACTIVE).
   - Delete member records safely.
-- **🔄 Transaction Management**:
+- **Transaction Management**:
   - Issue/borrow books with automatic stock updates and member status checks.
   - Return books with automatic fine calculation for overdue returns ($1/day).
   - View active book loans and pending overdue fines.
-- **⚡ Database Initialization & Seeding**:
+- **Database Initialization & Seeding**:
   - Automatic SQLite table creation (`books`, `members`, `transactions`).
   - One-click sample data seeding for instant demonstration.
 
 ---
 
-## 🛠️ Tech Stack & Requirements
+## Tech Stack & Requirements
 
 - **Language**: Java (JDK 17 or higher recommended, JDK 11+ supported)
 - **Database**: SQLite
@@ -32,7 +32,7 @@ A robust console-based Library Management System written in **Java** with an **S
 
 ---
 
-## 🏃 How to Run
+## How to Run
 
 ### Windows (Quick Start)
 Simply double-click or run the provided batch script in the terminal:
@@ -53,7 +53,7 @@ run.bat
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 LibraryManagement/
